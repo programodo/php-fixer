@@ -1,0 +1,13 @@
+{
+    "name": "programodo/php-fixer",
+    "description": "Programodo's default php fixing rules",
+    "license": "MIT",
+    "require": {
+      "friendsofphp/php-cs-fixer": "^2.0"
+    },
+    "autoload": {
+      "files": [
+      "./src/helpers.php"
+        ]
+    }
+}
